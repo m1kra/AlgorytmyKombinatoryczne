@@ -1,3 +1,13 @@
+/*
+ * The following code computes @k-element subset of {1, 2, ..., @n} 
+ * with the rank @r in the order of minimal changes. 
+ *
+ * compile with rustc zadanie3.rs
+ * run with ./zadanie3 n k r
+ * where n, k, r are given in argv.   
+ *
+ */ 
+
 use std::env;
 
 fn binom(n: i64, k: i64) -> i64 {
