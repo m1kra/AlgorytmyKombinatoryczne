@@ -8,7 +8,7 @@
  * or 
  *     $ groovyc zadanie1.groovy
  * and 
- *     $ java -cp ".:$GROOVY_HOME\lib\*" zadanie1 p_1 p_2 ... p_n
+ *     $ java -cp ".:$GROOVY_HOME/lib/*" zadanie1 p_1 p_2 ... p_n
  * where p_1 p_2 ... p_n is the permtation of {1, 2, ..., n} in argv.
  *
  */
