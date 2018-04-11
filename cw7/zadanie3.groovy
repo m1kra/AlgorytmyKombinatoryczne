@@ -35,5 +35,6 @@ def unrank(int n, int r){
 	return p[1..n]
 }
 
+if(!args) { return }
 
 println(unrank(args[0] as int, args[1] as int))
