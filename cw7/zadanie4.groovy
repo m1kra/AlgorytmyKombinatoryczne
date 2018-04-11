@@ -3,11 +3,11 @@
  * This code implements Trotten-Johnson algorithm.
  *
  * run with 
- *     $ groovy zadanie3 n
+ *     $ groovy zadanie4 n
  * or 
- *     $ groovyc zadanie1.groovy
- * and, being in the same catalogue as zadanie3.groovy,
- *     $ java -cp ".:$GROOVY_HOME/lib/*" zadanie3 n
+ *     $ groovyc zadanie4.groovy
+ * and, being in the same catalogue as zadanie4.groovy,
+ *     $ java -cp ".:$GROOVY_HOME/lib/*" zadanie4 n
  *
  */
 

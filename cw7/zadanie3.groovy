@@ -6,7 +6,7 @@
  * run with 
  *     $ groovy zadanie3 n r
  * or 
- *     $ groovyc zadanie1.groovy
+ *     $ groovyc zadanie3.groovy
  * and, being in the same catalogue as zadanie3.groovy,
  *     $ java -cp ".:$GROOVY_HOME/lib/*" zadanie3 n r
  *
